@@ -4,7 +4,7 @@ View slides: [https://tracykteal.github.io/scidatacon2016-presentation/slides.ht
 
 License: CC-BY
 
-Conference: SciDataCon 2016
+Conference: [SciDataCon 2016](http://www.scidatacon.org)
 <br>Session: [Growing a global education in Research Data Science](http://www.scidatacon.org/2016/sessions/57/)
 <br>Location: Denver, CO
 <br>Date: September 12, 2016
