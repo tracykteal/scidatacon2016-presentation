@@ -1,0 +1,275 @@
+---
+title: "Empowering people by democratizing data skills"
+author: "Tracy K. Teal, PhD <br> Data Carpentry, Executive Director
+<br> @tracykteal, @datacarpentry
+<br>Find these slides on GitHub: https://github.com/tracykteal/pydatasf-presentation/"
+output:
+  ioslides_presentation:
+    highlight: pygments
+    widescreen: yes
+    logo: DC1_logo.png
+    css: styles.css
+    fig_width: 3
+    fig_height: 2
+---
+
+# This is an exciting time to do work and research
+
+---
+
+<img src="images/bigdata.png" height="500px" width="1000px" align="center" />
+
+<div class="notes">
+Data production is no longer the bottleneck.
+
+We can collect and analyze data that givs us information and
+insight in a way we never could before. It opens up possibilities
+for the types of work we can do and questions we can ask. 
+</div>
+
+---
+
+
+
+<div class="notes">
+It's like the field of astronomy, where we have new telescopes. 
+We knew the stars were there, but we didn't know how many or 
+what they were made of. Before this new telescope, we didn't
+even know the questions to ask.
+</div>
+
+---
+
+
+<img src="images/datapain.png" width="1000px" align="center" />
+
+<div class="notes">
+But with the opportunity to collect data there comes challenges
+and frustrations. That's part of why we're here today, to present and learn from each other how people are addressing the challenges.
+</div>
+
+
+## The Role of People
+
+<img src="images/people2.png" width="1000px" align="center" />
+
+<div class="notes">
+That's what I want to talk about today: the role of people in 
+addressing these challenges and bringing our full creativity,
+passion and ingenuity to the problems and challenges of today,
+and the power that democratizing data skills can bring to
+the solutions. 
+
+When I talk about democratizing data skills I mean more people
+with the not necessarily just the skills, but the perspective
+to understand what's possible with data. How it's stored, how
+we can access it, the types of outcomes we can see. It's often
+difficult to understand what you can do, without knowing what's possible.
+</div>
+
+## Story of a scientist
+
+<div class="notes">
+Story about person
+</div>
+
+# Now what?
+
+## {.flexbox .vcenter}
+
+Software and tools allow us to turn data into information
+
+<div class="notes">
+We put a lot of emphasis on the development of tools and approaches, and rightfully so. These tools help us get to the 'now what' and turn data into information. Grants and VCs support this work
+that give us a new view of the data or a way to use it. 
+</div>
+
+## {.flexbox .vcenter} 
+
+People turn information into knowledge
+
+<div class="notes">
+It is not the tools that do the work to turn data into knowledge
+or make the discoveries. People are the ones who turn information 
+into knowledge. 
+</div>
+
+## {.flexbox .vcenter} 
+
+By putting the data skills and the perspectives in the hands of people who have the questions, we allow them to follow their curiousity and capture their passion and expert knowledge.
+
+<div class="notes">
+When we limit the number or types of people who
+do this work, we're losing that curiousity, that drive, that
+expert knowledge.
+
+Story about person. Who better to do or be a part of the analysis
+of the ... gemone than the person who has spent their entire 
+career working on it. If they hand it to me, I'm not as movitated,
+ and I might not even get it right.
+ 
+</div>
+
+
+# Unleash the potential of data by empowering people
+
+<div class="notes">
+Data and people can reach their full potential when 
+we give more people the skills and perspective to 
+work effectively with data.
+
+It's more than the skills, and also the perspective
+to understand what's possible with data. How it's stored, how
+we can access it, the types of outcomes we can see. It's often
+difficult to understand what you can do, without knowing what's possible.
+</div>
+
+# How do we scale data skills and literacy along with data production?
+
+## Researchers want these skills
+
+<img src="images/braembl.png" height="400px" width="800px" align="center" />
+
+<font size=-1>
+[BRAEMBL community survey report](http://braembl.org.au/news/braembl-community-survey-report-2013)
+</font>
+
+# It's never too early or late to start learning
+
+## Training in the Gaps: Active researchers and employees
+
+Active researchers and employees are learning these skills "on the job"
+
+Need to develop and deliver training that fits in their time and attention
+
+Possibilities:
+
+- online self-guided tutorials
+- online self-guided short videos
+- workshops
+- short courses
+- one-on-one or small group consulting
+
+<div class="notes">
+No time or focus for semester courses or even MOOCs
+
+Need to develop and deliver training that fits in their time and attention.
+</div>
+
+## Workshops
+
+- Short and impactful
+- Hands-on and interactive
+- Immediate feedback
+- Focused time
+- Shared learning 
+
+## Software and Data Carpentry
+
+- Learning objectives: Best practices in software development and data analysis & management
+- Delivery approach: intensive, hands-on teaching strategies in 2-day workshops, informed by educational pedagogy
+- Delivery mechanism: collaboratively developed lessons available on-line for free use, instructors trained to teach
+- Assessment: assessment surveys for both assessing learning outcomes and improving content
+
+
+<div class="notes">
+Software Carpentry founded by Greg Wilson in 1998 and then re-booted in 2010
+
+- Identified learning objectives as core skills in software development best practices and data analysis and management best practice, based on needs seen in the community
+- Used research in educational pedagogy to develop intensive, hands-on teaching strategies for 2-day workshops; trained some instructors in teaching strategy
+
+</div>
+
+
+## Hands on intensive workshops
+
+<img src="images/workshop.png" width="500px" align="=center" />
+
+<div class="notes">
+- two days
+- hands-on
+- qualified instructors
+- sticky notes
+- friendly learning environment
+</div>
+
+## Instructors
+<img src="images/instructors.png" width="1000px" align="=center" />
+
+## Lessons
+
+<img src="images/lessons.png" width="1000px" align="=center" />
+
+# What do we teach?
+
+## Data Carpentry
+
+- Focused on data - teaches how to manage and analyze data in an effective and reproducible way.
+- Initial focus is on workshops for novices - there are no prerequisites, and no prior knowledge computational experience is assumed.
+- Domain specific by design – currently have lessons in ecology, in genomics developed with iPlant, in geospatial data developed with NEON, and on APIs with rOpenSci
+
+## Software Carpentry
+
+- Focused on better software development practices, for writing software or analysis scripts
+- Domain agnostic
+
+## Outcomes
+
+- Learner outcomes
+- Instructor outcomes
+- Community!
+
+## Learner Outcomes
+
+
+
+## Instructor outcomes
+
+- People learn new techincal skills
+- They have a community - no more 'lone bioinformatician'
+- People become better communicators
+- Gain value from giving back and empowering people with the skills they have learned are valuable
+
+## Community!
+
+An active and engaged community of instructors and learners, both using
+and advocating for best practices in effective and reproducible research
+
+How best to support, sustain and grow this community?
+
+<div class="notes">
+Survey question about strongly agree that you would recommend to a friend
+</div>
+
+
+## Summary
+
+- Active researchers and employees are very motivated, but need 'on the job' training
+- Training for active researchers needs to teach in the gaps
+- Different challenges & opportunities in the training process that potentially require different strategies for support and different groups to develop and deliver
+
+## What can you or your organization do?
+
+- Support training within your organization
+- Support training efforts for people before they get to your organization
+- Good documentation of software
+- Enabling 'power tools' for all
+
+## Acknowledgements
+
+- Over 900 volunteers worldwide that teach and develop lessons
+- Greg Wilson, who founded Software Carpentry
+- The Steering Committees of Software and Data Carpentry
+- Software and Data Carpentry staff: Jonah Duckles, Greg Wilson, Erin Becker, Maneesha Sane and Kari Jordan
+
+
+## Acknowledgements
+- Alfred P. Sloan Foundation
+- Gordon and Betty Moore Foundation
+- National Science Foundation
+
+
+
+
+
+
