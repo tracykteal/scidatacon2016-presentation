@@ -5,9 +5,9 @@ View slides: [https://tracykteal.github.io/scidatacon2016-presentation/slides.ht
 License: CC-BY
 
 Conference: SciDataCon 2016
-Session: [Growing a global education in Research Data Science](http://www.scidatacon.org/2016/sessions/57/)
-Location: Denver, CO
-Date: September 12, 2016
+<br>Session: [Growing a global education in Research Data Science](http://www.scidatacon.org/2016/sessions/57/)
+<br>Location: Denver, CO
+<br>Date: September 12, 2016
 
 Title: [Addressing the bottleneck to data-driven discovery: scaling data skills training for researchers](http://www.scidatacon.org/2016/sessions/57/paper/365/)
 
