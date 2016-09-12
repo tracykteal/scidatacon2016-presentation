@@ -13,18 +13,24 @@ output:
     fig_height: 2
 ---
 
-# This is an exciting time to do work and research
-
 ---
 
-<img src="images/bigdata.png" height="500px" width="1000px" align="center" />
+<img src="images/firefighter.png" align="center" />
 
 <div class="notes">
-Data production is no longer the bottleneck.
+Story about firefighters
 
-We can collect and analyze data that givs us information and
-insight in a way we never could before. It opens up possibilities
-for the types of work we can do and questions we can ask. 
+</div>
+
+# Data crisis
+
+<img src="images/firefighter.png" align="center" />
+
+<div class="notes">
+Argue that we have a data emergency. People here are talking about
+many types of data crises, but the one I'm going to focus on here
+is the inability of researchers to work effectively with the data that they have or have access to. 
+
 </div>
 
 ---
@@ -32,9 +38,35 @@ for the types of work we can do and questions we can ask.
 <img src="images/datapain.png" width="1000px" align="center" />
 
 <div class="notes">
-But with the opportunity to collect data there comes challenges
-and frustrations. That's part of why we're here today, to present and learn from each other how people are addressing the challenges.
+To each individual researcher in this situation, it’s a personal crises or source of pain (Data pain slide). Take all this unanalyzed data and it turns into a broader crises of data that isn’t reaching its potential, opportunities missed to turn data into knowledge.
 </div>
+
+
+## The Role of People
+
+<img src="images/people2.png" width="1000px" align="center" />
+
+<div class="notes">
+That's what I want to talk about today: the role of people in 
+addressing these challenges and bringing our full creativity,
+passion and ingenuity to the problems and challenges of today,
+and the power that democratizing data skills can bring to
+the solutions. 
+
+When I talk about democratizing data skills I mean more people
+with the not necessarily just the skills, but the perspective
+to understand what's possible with data. How it's stored, how
+we can access it, the types of outcomes we can see. It's often
+difficult to understand what you can do, without knowing what's possible.
+</div>
+
+## Story of a scientist
+
+<div class="notes">
+Story about person
+</div>
+
+# Now what?
 
 ## {.flexbox .vcenter}
 
@@ -101,29 +133,29 @@ difficult to understand what you can do, without knowing what's possible.
 
 Active researchers and employees are learning these skills "on the job"
 
+Need to develop and deliver training that fits in their time and attention
+
+Possibilities:
+
+- online self-guided tutorials
+- online self-guided short videos
+- workshops
+- short courses
+- one-on-one or small group consulting
+
 <div class="notes">
 No time or focus for semester courses or even MOOCs
 
 Need to develop and deliver training that fits in their time and attention.
 </div>
 
-## Training in the Gaps: Active researchers and employees
+## Workshops
 
-Researchers need training that is immediate, accessible, appropriate for their level and relevant to their domain.
-
-<div class="notes">
-No time or focus for semester courses or even MOOCs
-
-Need to develop and deliver training that fits in their time and attention.
-</div>
-
-## Training in the Gaps: Active researchers and employees
-
-This training needs to include not only technical skills, but ways of thinking about data to provide learners with the knowledge of what is possible along with the confidence to continue self-guided learning.
-
-## Training in the Gaps: Active researchers and employees
-
-Additionally, we need to give researchers the opportunity to engage in deliberate practice as they learn these skills, starting with strong foundational skills and receiving feedback as they learn
+- Short and impactful
+- Hands-on and interactive
+- Immediate feedback
+- Focused time
+- Shared learning 
 
 ## Software and Data Carpentry
 
@@ -141,20 +173,21 @@ Software Carpentry founded by Greg Wilson in 1998 and then re-booted in 2010
 
 </div>
 
-## Scaling data training with collaboratively-developed curriculum
 
-Advantages:
+## Hands on intensive workshops
 
-- Don't need to write something new
-- Lessons taught frequently, so constantly improved
-- Lessons can be agile, and adpated for new releases or tools
-- Openly licensed means that they can be used in our workshops, or in other contexts
-- Modular format means things can be mixed and matched
+<img src="images/workshop.png" width="500px" align="=center" />
 
-Challenges:
-- Discovery of high-quality or appropriate materials
-- Lessons might not be maintained
+<div class="notes">
+- two days
+- hands-on
+- qualified instructors
+- sticky notes
+- friendly learning environment
+</div>
 
+## Instructors
+<img src="images/instructors.png" width="1000px" align="=center" />
 
 ## Lessons
 
@@ -168,41 +201,10 @@ Challenges:
 - Initial focus is on workshops for novices - there are no prerequisites, and no prior knowledge computational experience is assumed.
 - Domain specific by design – currently have lessons in ecology, in genomics developed with iPlant, in geospatial data developed with NEON, and on APIs with rOpenSci
 
-## Data Carpentry
-
-Biology
-
-- Data organization with spreadsheets
-- OpenRefine for data cleaning
-- R or Python for data analysis and visualization
-- SQL for data management
-
-## Data Carpentry
-
-Genomics
-
-- data organization and metadata
-- cloud computing
-- command line
-- automating bioinformatics workflows
-- R for data analysis
-
-## Data Carpentry
-
-Geospatial data
-
-- working with spatial and vector data in R
-
 ## Software Carpentry
 
 - Focused on better software development practices, for writing software or analysis scripts
 - Domain agnostic
-
-## Software Carpentry
-
-- Introduction to programming with Python or R
-- github for version control
-- command line for automation
 
 ## Outcomes
 
@@ -212,15 +214,7 @@ Geospatial data
 
 ## Learner Outcomes
 
-<img src="images/learn.png" width="500px" align="=center" />
 
-## Learner Outcomes
-
-<img src="images/apply.png" width="500px" align="=center" />
-
-## Learner Outcomes
-
-<img src="images/worthwhile.png" width="500px" align="=center" />
 
 ## Instructor outcomes
 
