@@ -1,5 +1,9 @@
 # SciDataCon 2016 Presentation
 
+View slides: [https://tracykteal.github.io/scidatacon2016-presentation/slides.html](https://tracykteal.github.io/scidatacon2016-presentation/slides.html)
+
+License: CC-BY
+
 Conference: SciDataCon 2016
 Session: [Growing a global education in Research Data Science](http://www.scidatacon.org/2016/sessions/57/)
 Location: Denver, CO
@@ -27,6 +31,6 @@ A hands-on workshop model with community developed lessons is one that addresses
 
 Learning does not stop when a researcher leaves the classroom; instead it is a continual process. A researcher needs to have the skills and confidence to continue this learning, but it is best developed if there is a community of practice that they can participate in, to look to for best practices as well as overcome obstacles. This means there needs to be a commitment not only to establishing training materials, but also to developing an instructor community that can effectively teach these skills and to supporting learners after workshops or courses. The train-the-trainer program that Software and Data Carpentry have developed focuses on educational pedagogy and live-coding for teaching, emphasizing hands-on, interactive learning. This program has trained over 700 instructors since 2014, who have trained over 10,000 learners on 6 continents. These instructors not only teach workshops, but implement good data and software practices in their own work, often through the support and encouragement of other instructors. They also teach and support learners at their own institutions, self-organizing workshops on Software and Data Carpentry as well as other topics. Many instructors are involved in local user groups that support continued learning. We need to continue to develop approaches that can encourage and support these activities, scaling support for communities of learners after events. Scaling data training means continuing to support learners as they continue in their research, looking to apply skills in a new context or go on to next steps. This support can often come from a community of peers that encourage this continued learning, but also the best practices that make our research more effective, reproducible and impactful.
 
-License: CC-BY
 
-View slides at: 
+
+
