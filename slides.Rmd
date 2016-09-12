@@ -206,6 +206,10 @@ Geospatial data
 - github for version control
 - command line for automation
 
+## Repositories of lessons
+
+[http://software-carpentry.org/lessons/](http://software-carpentry.org/lessons/)
+
 ## Outcomes
 
 - Learner outcomes
