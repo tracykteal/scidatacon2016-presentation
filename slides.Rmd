@@ -164,6 +164,8 @@ Challenges:
 
 ## Data Carpentry
 
+Data Carpentry workshops are for any researcher who has data they want to analyze, and no prior computational experience is required. This hands-on workshop teaches basic concepts, skills and tools for working more effectively with data.
+
 - Focused on data - teaches how to manage and analyze data in an effective and reproducible way.
 - Initial focus is on workshops for novices - there are no prerequisites, and no prior knowledge computational experience is assumed.
 - Domain specific by design – currently have lessons in ecology, in genomics developed with iPlant, in geospatial data developed with NEON, and on APIs with rOpenSci
